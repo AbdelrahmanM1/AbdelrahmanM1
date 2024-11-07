@@ -1,35 +1,36 @@
-# Hi there, I'm Abdul Rahman! 👋
+# Hi, I'm Abdul Rahman! 👋
 
-I'm a middle school student with a passion for **programming**, **cybersecurity**, and **technology**. I'm also a **web developer**, **mobile application developer**, and **discord bot developer**. Recently, I've started learning about **AI** and **Machine Learning**, and I'm excited to explore more in these fields.
+I’m a middle school student passionate about **programming**, **cybersecurity**, and **technology**. I’m currently exploring **AI** and **Machine Learning**, while also developing **web apps**, **mobile apps**, **Discord bots**, and creating **Minecraft plugins** and **mods**.
 
-## About Me
-- 🔭 I’m currently learning about **Artificial Intelligence** (AI) and **Machine Learning** (ML).
-- 🌱 I’m constantly improving my skills in **web development**, **mobile applications**, and **automation** with **Discord bots**.
-- 👯 I’m looking to collaborate on **web development**, **mobile apps**, and **AI** projects.
-- 🤔 I'm interested in learning how to build intelligent systems and improve the user experience in my apps.
-- 💬 Feel free to ask me anything about **web development**, **app testing**, **discord bots**, or **AI**.
+## 🚀 About Me
+- 🔭 I’m currently learning **AI** and **Machine Learning** to build intelligent systems.
+- 🌱 I’m constantly expanding my knowledge in **web development**, **mobile apps**, **Minecraft modding**, **Discord bots**, and **cybersecurity**.
+- 👯 I’m looking to collaborate on **Minecraft plugin development**, **AI**, **web development**, **cybersecurity**, and **app development** projects.
+- 💬 Ask me about **programming**, **Minecraft modding**, **cybersecurity**, **AI**, or **mobile development**!
 - 📫 How to reach me: [Email me here](mailto:your-email@example.com).
 
-## Skills
-- **Programming Languages**: Python, JavaScript, HTML, CSS, Java, C++
-- **Web Development**: Frontend (HTML, CSS, JavaScript), Backend (Node.js)
-- **Mobile App Development**: React Native, Flutter, Klotin, Android Development (Java)
+## 🛠️ Skills & Technologies
+- **Programming Languages**: Java, Python, HTML, CSS
+- **Minecraft Plugin Development**: Spigot, Bukkit, Pape
+- **Minecraft Modding**: Forge, Fabric, Modding APIs
+- **Web Development**: HTML, CSS, JavaScript, Node.js, React.js
+- **Mobile Development**: React Native, Flutter, Android Development (Java)
 - **App Testing**: Manual Testing, Automation Testing, UI/UX Testing
 - **Discord Bot Development**: Node.js, Discord.js, Discord.py
-- **Artificial Intelligence**: Machine Learning, Deep Learning, AI Tools (TensorFlow, Scikit-learn)
+- **AI & Machine Learning**: TensorFlow, Scikit-learn, Deep Learning, Keras
 
-## Current Projects
-- 🚀 Building a **web application** to help users manage their tasks more efficiently.
-- 🔧 Developing a **mobile app** to enhance productivity with custom notifications and reminders.
-- 🤖 Working on a **Discord bot** that automates tasks and moderates server activities.
-- 📚 Exploring **AI** and **ML** algorithms for **image recognition** and **natural language processing**.
+## 💻 Current Projects
+- **Task Manager Web App**: A simple task management app to improve productivity.
+- **Minecraft Plugin**: Developing a plugin to add custom features and gameplay mechanics to Minecraft servers.
+- **Minecraft Mod**: Building a Minecraft mod to introduce new gameplay elements and mechanics.
+- **Mobile Productivity App**: Helping users stay organized with custom notifications and features.
+- **Discord Bot**: A bot that automates server tasks, provides moderation, and engages users.
+- **AI Experimentation**: Working on machine learning models for **image recognition** and **natural language processing**.
 
-## Let's Connect!
-Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to collaborate or discuss **web development**, **mobile apps**, **AI**, or **Discord bots**!
+## 📈 GitHub Stats
+![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulRahman&show_icons=true&hide_title=true&hide=prs)
+
+## 📫 Let's Connect!
+Feel free to check out my repositories and reach out if you'd like to collaborate. I am always open to learning and growing with others in the tech community.
 
 > "Programming is like solving puzzles. The more you do it, the better you get!" 🔍
-
----
-
-### GitHub Stats
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulRahman&show_icons=true&hide_title=true&hide=prs)
