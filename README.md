@@ -14,7 +14,7 @@ I’m a middle school student passionate about **programming**, **cybersecurity*
 - **Minecraft Plugin Development**: Spigot, Bukkit, Pape
 - **Minecraft Modding**: Forge, Fabric, Modding APIs
 - **Web Development**: HTML, CSS, JavaScript
-- **Mobile Development**: React Native, Flutter, Android Development (Java)
+- **Mobile Development**: React Native, Flutter, Android Development (Klotin)
 - **App Testing**: Manual Testing, Automation Testing, UI/UX Testing
 - **Discord Bot Development**: Node.js, Discord.js, Discord.py
 - **I'm Currently learning AI & Machine Learning**: TensorFlow, Scikit-learn, Deep Learning, Keras
