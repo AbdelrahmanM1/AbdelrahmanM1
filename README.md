@@ -17,7 +17,7 @@ I’m a middle school student passionate about **programming**, **cybersecurity*
 - **Mobile Development**: React Native, Flutter, Android Development (Java)
 - **App Testing**: Manual Testing, Automation Testing, UI/UX Testing
 - **Discord Bot Development**: Node.js, Discord.js, Discord.py
-- **AI & Machine Learning**: TensorFlow, Scikit-learn, Deep Learning, Keras
+- **I'm Currently learing AI & Machine Learning**: TensorFlow, Scikit-learn, Deep Learning, Keras
 
 ## 💻 Current Projects
 - **Task Manager Web App**: A simple task management app to improve productivity.
