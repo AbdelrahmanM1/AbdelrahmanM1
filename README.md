@@ -13,7 +13,7 @@ I’m a middle school student passionate about **programming**, **cybersecurity*
 - **Programming Languages**: Java, Python, HTML, CSS
 - **Minecraft Plugin Development**: Spigot, Bukkit, Pape
 - **Minecraft Modding**: Forge, Fabric, Modding APIs
-- **Web Development**: HTML, CSS, JavaScript, Node.js, React.js
+- **Web Development**: HTML, CSS, JavaScript
 - **Mobile Development**: React Native, Flutter, Android Development (Java)
 - **App Testing**: Manual Testing, Automation Testing, UI/UX Testing
 - **Discord Bot Development**: Node.js, Discord.js, Discord.py
