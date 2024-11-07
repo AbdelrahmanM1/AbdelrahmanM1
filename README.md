@@ -12,10 +12,10 @@ I'm a middle school student with a passion for **programming**, **cybersecurity*
 
 ## Skills
 - **Programming Languages**: Python, JavaScript, HTML, CSS, Java, C++
-- **Web Development**: Frontend (HTML, CSS, JavaScript), Backend (Node.js, Express.js)
-- **Mobile App Development**: React Native, Flutter, Android Development (Java)
+- **Web Development**: Frontend (HTML, CSS, JavaScript), Backend (Node.js)
+- **Mobile App Development**: React Native, Flutter, Klotin, Android Development (Java)
 - **App Testing**: Manual Testing, Automation Testing, UI/UX Testing
-- **Discord Bot Development**: Node.js, Discord.js
+- **Discord Bot Development**: Node.js, Discord.js, Discord.py
 - **Artificial Intelligence**: Machine Learning, Deep Learning, AI Tools (TensorFlow, Scikit-learn)
 
 ## Current Projects
