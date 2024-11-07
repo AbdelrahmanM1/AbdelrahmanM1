@@ -7,7 +7,7 @@ I’m a middle school student passionate about **programming**, **cybersecurity*
 - 🌱 I’m constantly expanding my knowledge in **web development**, **mobile apps**, **Minecraft modding**, **Discord bots**, and **cybersecurity**.
 - 👯 I’m looking to collaborate on **Minecraft plugin development**, **AI**, **web development**, **cybersecurity**, and **app development** projects.
 - 💬 Ask me about **programming**, **Minecraft modding**, **cybersecurity**, **AI**, or **mobile development**!
-- 📫 How to reach me: [Email me here](mailto:your-email@example.com).
+- 📫 How to reach me: [Email me here](mailto:abdelrahmanthegames82@gmail.com).
 
 ## 🛠️ Skills & Technologies
 - **Programming Languages**: Java, Python, HTML, CSS
