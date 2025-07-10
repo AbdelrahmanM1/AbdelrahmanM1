@@ -10,10 +10,10 @@ I’m a middle school student passionate about **programming**, **cybersecurity*
 - 📫 How to reach me: [Email me here](mailto:abdelrahmanthegames82@gmail.com).
 
 ## 🛠️ Skills & Technologies
-- **Programming Languages**: Java, Python, HTML, CSS
-- **Minecraft Plugin Development**: Spigot, Bukkit, Pape
+- **Programming Languages**: Java, Python, HTML, CSS, React, JavaScript
+- **Minecraft Plugin Development**: Spigot, Bukkit, Paper
 - **Minecraft Modding**: Forge, Fabric, Modding APIs
-- **Web Development**: HTML, CSS, JavaScript
+- **Web Development**: HTML, CSS, JavaScript, React, NextJS, Typescript
 - **Mobile Development**: React Native, Flutter, Android Development (Klotin)
 - **App Testing**: Manual Testing, Automation Testing, UI/UX Testing
 - **Discord Bot Development**: Node.js, Discord.js, Discord.py
@@ -31,6 +31,6 @@ I’m a middle school student passionate about **programming**, **cybersecurity*
 ![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulRahman&show_icons=true&hide_title=true&hide=prs)
 
 ## 📫 Let's Connect!
-Feel free to check out my repositories and reach out if you'd like to collaborate. I am always open to learning and growing with others in the tech community.
+Please feel free to explore my repositories and let me know if you're interested in collaborating. I am always open to learning and growing with others in the tech community.
 
 > "Programming is like solving puzzles. The more you do it, the better you get!" 🔍
