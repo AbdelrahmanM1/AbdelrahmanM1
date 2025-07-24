@@ -81,7 +81,7 @@ I’m a middle school student passionate about **programming**, **cybersecurity*
 | **🧠 AI Image Classifier** | AI project for recognizing images using TensorFlow | Python, TensorFlow, Keras |
 | **🤖 Discord Moderator Bot** | Bot to automate moderation and utilities on Discord | Node.js, Discord.js |
 | **📱 Productivity App (Mobile)** | Simple mobile app with reminders and productivity tools | React Native, Firebase |
-| **🌐 Personal Portfolio Website** | Clean responsive portfolio showcasing my projects | HTML, Tailwind CSS, JavaScript |
+| **🌐 Personal Portfolio Website** | Clean responsive portfolio showcasing my projects | NextJS, Tailwind CSS, EmailJs for emails |
 
 ---
 
