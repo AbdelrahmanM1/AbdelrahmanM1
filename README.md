@@ -2,35 +2,91 @@
 
 I’m a middle school student passionate about **programming**, **cybersecurity**, and **technology**. I’m currently exploring **AI** and **Machine Learning**, while also developing **web apps**, **mobile apps**, **Discord bots**, and creating **Minecraft plugins** and **mods**.
 
+---
+
 ## 🚀 About Me
 - 🔭 I’m currently learning **AI** and **Machine Learning** to build intelligent systems.
-- 🌱 I’m constantly expanding my knowledge in **web development**, **mobile apps**, **Minecraft modding**, **Discord bots**, and **cybersecurity**.
-- 👯 I’m looking to collaborate on **Minecraft plugin development**, **AI**, **web development**, **cybersecurity**, and **app development** projects.
-- 💬 Ask me about **programming**, **Minecraft modding**, **cybersecurity**, **AI**, or **mobile development**!
-- 📫 How to reach me: [Email me here](mailto:abdelrahmanthegames82@gmail.com).
+- 🌱 Constantly expanding my skills in **web development**, **mobile apps**, **Minecraft modding**, **Discord bots**, and **cybersecurity**.
+- 👯 Looking to collaborate on **Minecraft plugin development**, **AI**, **web**, **cybersecurity**, and **app development** projects.
+- 💬 Ask me about: `Programming`, `Minecraft modding`, `Cybersecurity`, `AI`, or `Mobile development`.
+- 📫 Reach me at: [abdelrahmanthegames82@gmail.com](mailto:abdelrahmanthegames82@gmail.com)
+
+---
 
 ## 🛠️ Skills & Technologies
-- **Programming Languages**: Java, Python, HTML, CSS, React, JavaScript
-- **Minecraft Plugin Development**: Spigot, Bukkit, Paper
-- **Minecraft Modding**: Forge, Fabric, Modding APIs
-- **Web Development**: HTML, CSS, JavaScript, React, NextJS, Typescript
-- **Mobile Development**: React Native, Flutter, Android Development (Klotin)
-- **App Testing**: Manual Testing, Automation Testing, UI/UX Testing
-- **Discord Bot Development**: Node.js, Discord.js, Discord.py
-- **I'm Currently learning AI & Machine Learning**: TensorFlow, Scikit-learn, Deep Learning, Keras
+
+### 👨‍💻 Programming Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+### 🌐 Minecraft Plugin & Mod Development
+<p>
+  <img src="https://img.shields.io/badge/Spigot-FFA500?style=for-the-badge&logo=spigotmc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bukkit-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Paper-ffffff?style=for-the-badge&logo=paper&logoColor=black" />
+  <img src="https://img.shields.io/badge/Forge-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fabric-5F5F5F?style=for-the-badge" />
+</p>
+
+### 🤖 Discord Bot Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
+### 🧠 AI & Machine Learning (Learning)
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 🧪 Testing
+<p>
+  <img src="https://img.shields.io/badge/Manual Testing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation Testing-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI/UX Testing-purple?style=for-the-badge" />
+</p>
+
+### 🎨 Design Skills
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
 
 ## 💻 Current Projects
-- **Task Manager Web App**: A simple task management app to improve productivity.
-- **Minecraft Plugin**: Developing a plugin to add custom features and gameplay mechanics to Minecraft servers.
-- **Minecraft Mod**: Building a Minecraft mod to introduce new gameplay elements and mechanics.
-- **Mobile Productivity App**: Helping users stay organized with custom notifications and features.
-- **Discord Bot**: A bot that automates server tasks, provides moderation, and engages users.
-- **AI Experimentation**: Working on machine learning models for **image recognition** and **natural language processing**.
+- ✅ **Task Manager Web App** — Simple productivity app.
+- ✅ **Minecraft Plugin** — Custom gameplay features.
+- ✅ **Minecraft Mod** — New mechanics & elements.
+- ✅ **Mobile Productivity App** — Personalized reminders.
+- ✅ **Discord Bot** — Automation, moderation & fun.
+- ✅ **AI Experiments** — NLP and image recognition projects.
 
-## 📈 GitHub Stats
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulRahman&show_icons=true&hide_title=true&hide=prs)
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulRahman&show_icons=true&theme=radical)
+
+---
 
 ## 📫 Let's Connect!
-Please feel free to explore my repositories and let me know if you're interested in collaborating. I am always open to learning and growing with others in the tech community.
+Feel free to explore my repos or reach out if you want to collaborate or learn together!
 
-> "Programming is like solving puzzles. The more you do it, the better you get!" 🔍
+> 🧩 *"Programming is like solving puzzles. The more you do it, the better you get!"*
