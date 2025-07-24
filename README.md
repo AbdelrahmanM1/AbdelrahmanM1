@@ -6,7 +6,7 @@ I’m a middle school student passionate about **programming**, **cybersecurity*
 
 ## 🚀 About Me
 - 🔭 I’m currently learning **AI** and **Machine Learning** to build intelligent systems.
-- 🌱 Constantly expanding my skills in **web development**, **mobile apps**, **Minecraft modding**, **Discord bots**, and **cybersecurity**.
+- 🌱 Constantly expanding my skills in **web development**, **React Native mobile apps**, **Minecraft modding**, **Discord bots**, and **cybersecurity**.
 - 👯 Looking to collaborate on **Minecraft plugin development**, **AI**, **web**, **cybersecurity**, and **app development** projects.
 - 💬 Ask me about: `Programming`, `Minecraft modding`, `Cybersecurity`, `AI`, or `Mobile development`.
 - 📫 Reach me at: [abdelrahmanthegames82@gmail.com](mailto:abdelrahmanthegames82@gmail.com)
@@ -27,7 +27,7 @@ I’m a middle school student passionate about **programming**, **cybersecurity*
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-### 📱 Mobile Development
+### 📱 Mobile Development (Mainly React Native)
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -71,13 +71,17 @@ I’m a middle school student passionate about **programming**, **cybersecurity*
 
 ---
 
-## 💻 Current Projects
-- ✅ **Task Manager Web App** — Simple productivity app.
-- ✅ **Minecraft Plugin** — Custom gameplay features.
-- ✅ **Minecraft Mod** — New mechanics & elements.
-- ✅ **Mobile Productivity App** — Personalized reminders.
-- ✅ **Discord Bot** — Automation, moderation & fun.
-- ✅ **AI Experiments** — NLP and image recognition projects.
+## 💼 Projects I’ve Built
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **📋 Task Manager Web App** | Productivity tool to manage tasks and deadlines | React, Node.js, Tailwind CSS |
+| **🧩 Minecraft Anti-DDoS Plugin** | Detects and blocks suspicious traffic in Minecraft servers | Java, Spigot |
+| **🔧 School Playground Booking App** | Mobile app for booking school playgrounds, includes QR code verification | React Native, Kotlin |
+| **🧠 AI Image Classifier** | AI project for recognizing images using TensorFlow | Python, TensorFlow, Keras |
+| **🤖 Discord Moderator Bot** | Bot to automate moderation and utilities on Discord | Node.js, Discord.js |
+| **📱 Productivity App (Mobile)** | Simple mobile app with reminders and productivity tools | React Native, Firebase |
+| **🌐 Personal Portfolio Website** | Clean responsive portfolio showcasing my projects | HTML, Tailwind CSS, JavaScript |
 
 ---
 
