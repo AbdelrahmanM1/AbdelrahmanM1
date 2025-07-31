@@ -97,7 +97,7 @@ I’m a passionate middle school student with a deep interest in **programming**
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulRahman&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanM1&show_icons=true&theme=radical)
 
 ---
 
