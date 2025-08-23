@@ -1,18 +1,19 @@
-<!-- Animated Typing Header -->
+<!--Header-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Abdelrahman+Moharram;🚀+Passionate+Programmer;💻+Full-Stack+Developer;🛡️+Cybersecurity+Enthusiast;🤖+AI+%26+ML+Learner)](https://git.io/typing-svg)
 
 ---
 
-# 👋 About Me  
+# 👋 About Me
 I’m **Abdelrahman Moharram**, a **middle school student** passionate about **programming, cybersecurity, and technology**.  
-I love creating **web & mobile apps**, **Discord bots**, and **Minecraft plugins & mods**.  
-Currently exploring the world of **AI & Machine Learning** 🚀  
+I love building **web & mobile apps**, **Discord bots**, and **Minecraft plugins & mods**.  
+Currently exploring the exciting world of **AI & Machine Learning** 🚀  
 
 ---
 
 ## 🌟 Experience & Achievements
 - Built **Minecraft Anti-DDoS Plugin** to protect servers from attacks  
-- Developed a **school playground booking app** with **QR verification**
+- Developed a **School Playground Booking App & Website** with **QR verification**  
+
 ---
 
 ## 🚀 Current Focus
@@ -24,14 +25,14 @@ Currently exploring the world of **AI & Machine Learning** 🚀
   - 🎮 Minecraft modding & plugin development  
   - 🤖 Discord bot automation  
 - 🤝 Open to collaborate on:  
-  - Minecraft servers development & plugins  
+  - Minecraft servers & plugins  
   - AI/ML experiments  
   - Cybersecurity projects  
   - Web & mobile applications  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
 <p align="center">
@@ -84,8 +85,7 @@ Currently exploring the world of **AI & Machine Learning** 🚀
 |------------|---------------|----------------|
 | **📋 Task Manager Web App** | Manage tasks & deadlines efficiently | React, Node.js, Tailwind CSS |
 | **🛡️ Minecraft Anti-DDoS Plugin** | Detects & blocks suspicious traffic | Java, Spigot |
-| **🏟️ Playground Booking App** | School playground booking + QR verification | React Native, Kotlin |
-| **📱 Productivity Mobile App** | Organize reminders & tasks | React Native, Firebase |
+| **🏟️ Playground Booking App & Website** | School playground booking + QR verification | HTML, CSS, JavaScript, Kotlin |
 | **🌐 Portfolio Website** | Personal portfolio + contact form | Next.js, Tailwind CSS, EmailJS |
 
 > 🔗 *More projects on [GitHub](https://github.com/AbdelrahmanM1)*
@@ -108,7 +108,7 @@ Currently exploring the world of **AI & Machine Learning** 🚀
 ## 📬 Connect with Me  
 
 📧 **Email:** [abdelrahmanmoharram.dev@gmail.com](mailto:abdelrahmanmoharram.dev@gmail.com)  
-🌐 **Portfolio:** [MyWebsite](https://abdelrahmanmoharram.vercel.app)
+🌐 **Portfolio:** [MyWebsite](https://abdelrahmanmoharram.vercel.app)  
 💬 **Discord:** `3bdoabk`  
 
 > 💡 *“Programming is like solving puzzles — the more you practice, the better you get!”*
