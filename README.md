@@ -1,34 +1,39 @@
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Abdelrahman+Moharram;🚀+Passionate+Programmer;💻+Full+Stack+Developer;🛡️+Cybersecurity+Enthusiast;🤖+AI+%26+ML+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Abdelrahman+Moharram;🚀+Passionate+Programmer;💻+Full-Stack+Developer;🛡️+Cybersecurity+Enthusiast;🤖+AI+%26+ML+Learner)](https://git.io/typing-svg)
 
 ---
 
-# 👨‍💻 About Me  
-I’m a **middle school student** passionate about **programming**, **cybersecurity**, and **technology**.  
-I enjoy building **web apps**, **mobile apps**, **Discord bots**, and **Minecraft plugins & mods**.  
-Currently, I’m diving deep into **Artificial Intelligence (AI)** and **Machine Learning (ML)** 🚀  
+# 👋 About Me  
+I’m **Abdelrahman Moharram**, a **middle school student** passionate about **programming, cybersecurity, and technology**.  
+I love creating **web & mobile apps**, **Discord bots**, and **Minecraft plugins & mods**.  
+Currently exploring the world of **AI & Machine Learning** 🚀  
 
 ---
 
-## 🚀 Currently Learning & Exploring  
-- 🔭 **Artificial Intelligence & Machine Learning**  
-- 🌱 Growing skills in:  
+## 🌟 Experience & Achievements
+- Built **Minecraft Anti-DDoS Plugin** to protect servers from attacks  
+- Developed a **school playground booking app** with **QR verification**
+---
+
+## 🚀 Current Focus
+- 🔭 Learning **AI & Machine Learning**  
+- 🌱 Improving skills in:  
   - ⚡ Full-stack web development  
-  - 📱 Mobile apps (React Native & Kotlin)  
+  - 📱 Mobile apps *(React Native, Kotlin, Flutter)*  
   - 🛡️ Cybersecurity & ethical hacking  
   - 🎮 Minecraft modding & plugin development  
   - 🤖 Discord bot automation  
-- 🤝 Open to collaborating on:  
-  - Minecraft plugins  
+- 🤝 Open to collaborate on:  
+  - Minecraft servers development & plugins  
   - AI/ML experiments  
-  - Security projects  
-  - Web & mobile apps  
+  - Cybersecurity projects  
+  - Web & mobile applications  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 💻 Languages & Frameworks  
+### 💻 Languages & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -41,13 +46,14 @@ Currently, I’m diving deep into **Artificial Intelligence (AI)** and **Machine
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-### 📱 Mobile Development  
+### 📱 Mobile Development
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-### 🎮 Minecraft Modding *(Learning)*  
+### 🎮 Minecraft Plugin & Modding *(Learning)*
 <p align="center">
   <img src="https://img.shields.io/badge/Spigot-FFA500?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bukkit-FF9900?style=for-the-badge" />
@@ -56,14 +62,14 @@ Currently, I’m diving deep into **Artificial Intelligence (AI)** and **Machine
   <img src="https://img.shields.io/badge/Fabric-5F5F5F?style=for-the-badge" />
 </p>
 
-### 🤖 Discord Bots *(Learning)*  
+### 🤖 Discord Bots *(Learning)*
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
-### 🧠 AI & Machine Learning *(Learning)*  
+### 🧠 AI & Machine Learning *(Learning)*
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
@@ -78,9 +84,11 @@ Currently, I’m diving deep into **Artificial Intelligence (AI)** and **Machine
 |------------|---------------|----------------|
 | **📋 Task Manager Web App** | Manage tasks & deadlines efficiently | React, Node.js, Tailwind CSS |
 | **🛡️ Minecraft Anti-DDoS Plugin** | Detects & blocks suspicious traffic | Java, Spigot |
-| **🏟️ Playground Booking App** | School playground booking + QR verify | React Native, Kotlin |
-| **📱 Productivity Mobile App** | Manage reminders & tasks | React Native, Firebase |
+| **🏟️ Playground Booking App** | School playground booking + QR verification | React Native, Kotlin |
+| **📱 Productivity Mobile App** | Organize reminders & tasks | React Native, Firebase |
 | **🌐 Portfolio Website** | Personal portfolio + contact form | Next.js, Tailwind CSS, EmailJS |
+
+> 🔗 *More projects on [GitHub](https://github.com/AbdelrahmanM1)*
 
 ---
 
@@ -97,10 +105,10 @@ Currently, I’m diving deep into **Artificial Intelligence (AI)** and **Machine
 
 ---
 
-## 📬 Let’s Connect  
+## 📬 Connect with Me  
 
-📧 **Email** → [abdelrahmanthegames82@gmail.com](mailto:abdelrahmanthegames82@gmail.com)  
+📧 **Email:** [abdelrahmanmoharram.dev@gmail.com](mailto:abdelrahmanmoharram.dev@gmail.com)  
+🌐 **GitHub:** [AbdelrahmanM1](https://github.com/AbdelrahmanM1)  
+💬 **Discord:** `3bdoabk`  
 
-> 💡 *"Programming is like solving puzzles — the more you do it, the better you get!"*  
-
----
+> 💡 *“Programming is like solving puzzles — the more you practice, the better you get!”*
