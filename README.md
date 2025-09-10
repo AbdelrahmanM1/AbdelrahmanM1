@@ -6,7 +6,7 @@
 # 👋 About Me
 I’m **Abdelrahman Moharram**, a **middle school student** passionate about **programming, cybersecurity, and technology**.  
 I love building **web & mobile apps**, **Discord bots**, and **Minecraft plugins & mods**.  
-Currently exploring the exciting world of **AI & Machine Learning** 🚀  
+Currently exploring the exciting world of **Cybersecurity** 🚀  
 
 ---
 
@@ -17,7 +17,7 @@ Currently exploring the exciting world of **AI & Machine Learning** 🚀
 ---
 
 ## 🚀 Current Focus
-- 🔭 Learning **AI & Machine Learning**  
+- 🔭 Learning **Cybersecurity**  
 - 🌱 Improving skills in:  
   - ⚡ Full-stack web development  
   - 📱 Mobile apps *(React Native, Kotlin, Flutter)*  
@@ -26,7 +26,6 @@ Currently exploring the exciting world of **AI & Machine Learning** 🚀
   - 🤖 Discord bot automation  
 - 🤝 Open to collaborate on:  
   - Minecraft servers & plugins  
-  - AI/ML experiments  
   - Cybersecurity projects  
   - Web & mobile applications  
 
@@ -70,11 +69,13 @@ Currently exploring the exciting world of **AI & Machine Learning** 🚀
   <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
-### 🧠 AI & Machine Learning *(Learning)*
+### 🛡️ Cybersecurity *(Learning)*
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C99?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-5B4F80?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1677FF?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-00A300?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-7F7F7F?style=for-the-badge&logo=burp-suite&logoColor=white" />
 </p>
 
 ---
