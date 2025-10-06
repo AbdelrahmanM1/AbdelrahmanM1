@@ -18,7 +18,7 @@
 Hey there! I'm **Abdelrahman Moharram**, a **middle school student** with a passion for turning ideas into reality through code. Despite my age, I've been diving deep into the world of **programming, cybersecurity, and technology**, building real-world applications that solve actual problems.
 
 ```javascript
-const abdelrahman = {
+const Abdelrahman Moharram = {
     age: "Middle School Student",
     location: "Egypt 🇪🇬",
     passions: ["Coding", "Cybersecurity", "Problem Solving"],
