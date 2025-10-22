@@ -9,6 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanmoharram.dev@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/3bdoabk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/3bdoabk)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/3bdoabk)
 
 </div>
 
@@ -249,6 +250,18 @@ I'm always excited to work on innovative projects! Here's what I'm interested in
 
 ---
 
+## ☕ Support My Work
+
+<div align="center">
+
+If you find my projects helpful or interesting, consider supporting me! Your support helps me continue learning and building amazing things.
+
+<a href="https://buymeacoffee.com/3bdoabk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+</div>
+
+---
+
 ## 📫 Get In Touch
 
 <div align="center">
@@ -267,6 +280,7 @@ I'm always excited to work on innovative projects! Here's what I'm interested in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/3bdoabk)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrahmanM1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanmoharram.dev@gmail.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/3bdoabk)
 
 </div>
 
