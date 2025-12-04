@@ -302,6 +302,6 @@ If you find my projects helpful or interesting, consider supporting me! Your sup
 
 ### ⭐️ If you find my work interesting, consider starring my repositories!
 
-<sub>Made with 💙 by Abdelrahman Moharram</sub>
+<sub>Made with 💙 by 3bdoabk</sub>
 
 </div>
