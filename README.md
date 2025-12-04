@@ -20,7 +20,7 @@
 Hey there! I'm **3bdoabk | 0xC0rruptByte**, a **middle school student** from **Egypt 🇪🇬** with a passion for turning ideas into reality through code. Despite my age, I've been diving deep into the world of **programming, cybersecurity, and technology**, building real-world applications that solve actual problems.
 
 ```javascript
-const AbdelrahmanMoharram = {
+const 3bdoabk = {
     age: "Middle School Student",
     location: "Egypt 🇪🇬",
     passions: ["Coding", "Cybersecurity", "Problem Solving"],
